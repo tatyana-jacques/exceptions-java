@@ -61,7 +61,7 @@ public class Reservation {
 				+ fmt.format(checkOut)
 				+ ", "
 				+ duration()
-				+ "nights.";
+				+ " nights.";
 		
 	}
 	
